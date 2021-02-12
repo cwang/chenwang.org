@@ -1,5 +1,5 @@
 ---
-title: "JSR-223 Java Scripting API - A Real World Use Case: Success and Pitfalls"
+title: "JSR-223 Java Scripting API - a real world use case: success and pitfalls"
 date: 2012-09-20T00:00:00Z
 draft: false
 ---
