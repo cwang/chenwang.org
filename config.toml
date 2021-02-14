@@ -1,20 +1,24 @@
 baseURL = "https://chenwang.org/"
 languageCode = "en-gb"
 title = "Thoughts from Chen W"
-theme = "paperback"
+theme = "charaka"
+copyright = "&copy; 2021 Chen Wang | built by <a href='https://gohugo.io/'>Hugo</a> with <a href='https://github.com/natarajmb/charaka-hugo-theme'>Charaka theme</a>"
+disqusShortname = ""
+googleAnalytics = ""
 
 [params]
 
-MainSections = "post"
+[params.highlight]
+  style = "zenburn"
 
-AuthorName = "Chen W"
+[[params.social]]
+  url = "about.html"
+  fa_icon = "fas fa-info" 
 
-Tagline = ""
+[[params.social]]
+  url = "https://github.com/cwang"
+  fa_icon = "fab fa-github"
 
-HomepagePosts = 3
-
-GithubUsername = "cwang"
-
-TwitterUsername = "cwang"
-
-LinkedInUsername = "chenwang"
+[[params.social]]
+  url = "https://www.linkedin.com/in/chenwang/"
+  fa_icon = "fab fa-linkedin-in"
